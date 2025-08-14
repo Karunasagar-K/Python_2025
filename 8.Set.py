@@ -49,7 +49,7 @@
 # print(id(bank))
 # print(len(bank))
 
-# #Conert into the set
+# #Convert into the set
 # result = set("STATE BANK OF INIDA")
 # print(result)
 # print(type(result))
